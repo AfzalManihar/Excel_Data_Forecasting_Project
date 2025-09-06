@@ -19,9 +19,8 @@ This project demonstrates how Excel’s built-in tools like **Forecast Sheet, Tr
 ## Dashboard  
 
 ---
-(![Excel Forecasting Dashboard](https://github.com/AfzalManihar/Excel_Data_Forecasting_Project/raw/main/Store_Analysis_final_look.png)
-)
 
+![Excel Forecasting Dashboard](https://github.com/AfzalManihar/Excel_Data_Forecasting_Project/raw/main/Forcasting_Final_look.png)
 
 ---
 
